@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, I am Sadanand Kumar👋
 
-<!--
-**SADANANDKUMAR/SADANANDKUMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I am a software developer!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on web development project
+- 🌱 I’m currently learning android devlopment
+- 👯 I’m looking to collaborate on web development project
+- 🤔 I’m looking for opportunities in web development field
+- 💬 Ask me about android devlopment, web development & Core java,adv java
+- 📫 You can contact me at:- sadanandkr9686@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: dancing & Gyming
