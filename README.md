@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning android devlopment
 - 👯 I’m looking to collaborate on web development project
 - 🤔 I’m looking for opportunities in web development field
-- 💬 Ask me about android devlopment, web development & Core java,adv java
+- 💬 Ask me about web development & Core java
 - 📫 You can contact me at:- sadanandkr9686@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: dancing & Gyming
